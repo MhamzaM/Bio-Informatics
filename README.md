@@ -6,11 +6,12 @@ It is an Gene Locater Application which locates genes from a dataset (CSV suppor
            
            
 ### Build :
-It uses the following python libraries: 
-          1. Keras
-          2. Numpy
-          3. Pandas
-          4. Sci-Kit
+It uses the following Anaconda Python Suite and implements usage of : 
+1. Jupiter Notebooks
+2. Scikit Learn
+3. Keras
+4. Numpy
+5. Pandas
           
  In order to run the program yourself with your own data-set of genes, replace PATH in the Notebook with the path to your dataset: 
 ```
