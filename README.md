@@ -2,11 +2,11 @@
 
 
 ### Introduction:   
-           It is an Gene Locater Application which locates genes from a dataset (CSV support for now). It uses Neural Networks to automatically learn the location of the Genes from a specified training set.
+It is an Gene Locater Application which locates genes from a dataset (CSV support for now). It uses Neural Networks to automatically learn the location of the Genes from a specified training set.
            
            
 ### Build :
-    It uses the following python libraries: 
+It uses the following python libraries: 
           1. Keras
           2. Numpy
           3. Pandas
