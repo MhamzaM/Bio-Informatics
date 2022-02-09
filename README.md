@@ -2,7 +2,7 @@
 
 
 ### Introduction:   
-It is an Gene Locater Application which locates genes from a dataset (CSV support for now). It uses Neural Networks to automatically learn the location of the Genes from a specified training set.
+It is a Gene Locater Application which locates genes from a dataset (CSV support for now). It uses Neural Networks to automatically learn the location of the Genes from a specified training set.
            
            
 ### Build :
